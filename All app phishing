@@ -1,0 +1,13 @@
+pkg install bash
+
+pkg install git
+
+git clone https://github.com/WhBeatZ/WhPhisher.git
+
+cd WhPhisher
+
+chmod +x *
+
+bash requisitoswh.sh
+
+Wait for them to be installed and automatically start WhPhisher :D
